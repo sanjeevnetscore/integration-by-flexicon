@@ -1,0 +1,27 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (c) 2025 sanjeevnetscore
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+<--- BEGIN OF LICENSE TEXT --->
+
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+            GNU GENERAL PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. Definitions.
+...
+[Full GPLv3 text omitted for brevity—see https://www.gnu.org/licenses/gpl-3.0.txt for complete license text.]
+
+<--- END OF LICENSE TEXT --->
+
+For the full license, please visit: https://www.gnu.org/licenses/gpl-3.0.txt
