@@ -3,7 +3,7 @@
  * Plugin Name: Integration by Flexicon
  * Description: Integration by Flexicon is a lightweight contact form plugin that redirects to a custom plugin page after installation and sends the submitted form data (Name, Company Email, Mobile Number, Message) to the site admin and the submitter via email.
  * Version: 1.0.0
- * Author: Flexicon
+ * Author: netscoretechnologies
  * License: GPLv3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Tags: e-commerce, integration, flexicon, inventory, product sync, online store
