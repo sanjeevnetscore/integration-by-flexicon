@@ -1,0 +1,41 @@
+.ibf-form {
+    max-width: 600px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    margin-top: 20px;
+}
+
+.ibf-form label {
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+    color: #23282d;
+}
+
+.ibf-form input,
+.ibf-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.ibf-form button {
+    margin-top: 20px;
+    background-color: #0073aa;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.ibf-form button:hover {
+    background-color: #005177;
+}
