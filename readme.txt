@@ -4,7 +4,7 @@ Tags: e-commerce, integration, flexicon, inventory, product sync, online store
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -29,6 +29,12 @@ Currently, the form sends to the site admin email. You can customize the plugin 
 2. Email received with the submitted form data.
 
 == Changelog ==
+
+= 1.0.1 =
+* Updated stable tag and compatibility information.
+* Improved form validation and email delivery reliability.
+* Minor UI enhancements to contact form styling.
+
 = 1.0.0 =
 * Initial release with contact form and post-installation redirection.
 
